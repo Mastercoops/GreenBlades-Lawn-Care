@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenBlades Lawn Care - Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Welcome to GreenBlades Lawn Care</h1>
+    <p>Your lawn, our care</p>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="booking.html">Booking</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+    <h2>About GreenBlades Lawn Care</h2>
+    <p>We provide professional lawn mowing and gardening services in Birkdale, Brisbane. Let us help keep your lawn looking great year-round.</p>
+</div>
+
+<footer>
+    <p>&copy; 2024 GreenBlades Lawn Care. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
