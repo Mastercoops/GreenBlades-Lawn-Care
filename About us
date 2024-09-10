@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenBlades Lawn Care - About Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>About GreenBlades Lawn Care</h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="booking.html">Booking</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+    <h2>Who We Are</h2>
+    <p>GreenBlades Lawn Care was founded in Birkdale to provide reliable, professional lawn care services. We take pride in helping homeowners maintain beautiful yards with minimal effort.</p>
+</div>
+
+<footer>
+    <p>&copy; 2024 GreenBlades Lawn Care. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
