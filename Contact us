@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenBlades Lawn Care - Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Contact Us</h1>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="booking.html">Booking</a></li>
+    </ul>
+</nav>
+
+<div class="container">
+    <h2>Get in Touch</h2>
+    <p>Feel free to reach out to us at:</p>
+    <p>Email: info@greenblades.com</p>
+    <p>Phone: 123-456-7890</p>
+</div>
+
+<footer>
+    <p>&copy; 2024 GreenBlades Lawn Care. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
